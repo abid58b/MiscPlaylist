@@ -1,15 +1,15 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="match_30_sl_vs_aus" tvg-name="Match 30: SL vs AUS" tvg-language="English" tvg-country="INT" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size50/prd/yvlnxytvyspr879jsh8m" group-title="ICC TV (T20 WC26)*",Match 30: SL vs AUS
+#EXTINF:-1 tvg-id="match_30_sl_vs_aus" tvg-name="Match 30: SL vs AUS" tvg-language="English" tvg-country="INT" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size50/v1771170664/prd/m3mk5nyur4xvdg86xrkr" group-title="ICC TV (T20 WC26)*",Match 30: SL vs AUS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e85411a37b603294ad2f9cd79b3eb559:a1ba6a2e83e553191e0bedaec5c83773
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_headers=User-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-02)/manifest.mpd?vcfilter=8297833e-2d8a-4bca-9233-8727bd614e56&hdnts=st=1771249040~exp=1771249080~acl=/variant/v1blackout/vcg-01-d/*~id=a704e901-ee0e-495b-ae95-0c1abc6fe2a7~hmac=a8192e2173d9d218cb316ce0e3df60c033f2882df651202967af20bd7781f441&hdcore=2.11.3
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-02)/manifest.mpd?vcfilter=8297833e-2d8a-4bca-9233-8727bd614e56&hdnts=st=1771254868~exp=1771254908~acl=/variant/v1blackout/vcg-01-d/*~id=a704e901-ee0e-495b-ae95-0c1abc6fe2a7~hmac=e2234c9c1b1df6de354817dc96388d5b36bcf9353e6c9b4e81570eb6b52b99ad&hdcore=2.11.3
 #EXTINF:-1 tvg-id="match_30_sl_vs_aus" tvg-name="Match 30: SL vs AUS" tvg-language="English" tvg-country="INT" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size50/v1771170676/prd/nqzwucdlzqkodlhh051l" group-title="ICC TV (T20 WC26)*",Match 30: SL vs AUS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e85411a37b603294ad2f9cd79b3eb559:a1ba6a2e83e553191e0bedaec5c83773
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_headers=User-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-04)/manifest.mpd?vcfilter=d04dc68d-2da0-4fc0-a857-f44da8fc02d4&hdnts=st=1771249045~exp=1771249085~acl=/variant/v1blackout/vcg-01-d/*~id=a704e901-ee0e-495b-ae95-0c1abc6fe2a7~hmac=20ee5f7a0f36c9ec1ef5b37a7ac0974688e042275a33eb1154199cad3de2d720&hdcore=2.11.3
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-04)/manifest.mpd?vcfilter=d04dc68d-2da0-4fc0-a857-f44da8fc02d4&hdnts=st=1771254873~exp=1771254913~acl=/variant/v1blackout/vcg-01-d/*~id=a704e901-ee0e-495b-ae95-0c1abc6fe2a7~hmac=ea9837ec808bb8333354f4030a36da1f6f4602f015df3c6ff407bd260da39d5c&hdcore=2.11.3

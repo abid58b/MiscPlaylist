@@ -1,7 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="AI SPORTS" tvg-logo="https://pbcdn.aoneroom.com/image/2025/07/02/4bb5079c21632a5867d5dcbf77c9a6e0.jpg", LaLiga: Levante vs Valencia
-#EXTVLCOPT:http-referer=https://sportslivenow.top/
-https://live-pull.aisports.mobi/moviebox/bsy_020/playlist.m3u8
 #EXTINF:-1 group-title="AI SPORTS" tvg-logo="https://pbcdn.aoneroom.com/image/2025/04/08/066724f7a61a584e611de62f7119ab21.jpg", Ligue 1: Lyon vs Nice
 #EXTVLCOPT:http-referer=https://sportslivenow.top/
 https://live-pull.aisports.mobi/moviebox/bsy_023/playlist.m3u8
