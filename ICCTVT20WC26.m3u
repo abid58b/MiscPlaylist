@@ -1,15 +1,15 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="match_29_eng_vs_ita" tvg-name="Match 29: ENG vs ITA" tvg-language="English" tvg-country="INT" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size50/v1771170658/prd/baeljyostkzzmruk0ii2" group-title="ICC TV (T20 WC26)*",Match 29: ENG vs ITA
+#EXTINF:-1 tvg-id="match_30_sl_vs_aus" tvg-name="Match 30: SL vs AUS" tvg-language="English" tvg-country="INT" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size50/prd/yvlnxytvyspr879jsh8m" group-title="ICC TV (T20 WC26)*",Match 30: SL vs AUS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e85411a37b603294ad2f9cd79b3eb559:a1ba6a2e83e553191e0bedaec5c83773
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_headers=User-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-03)/manifest.mpd?vcfilter=16a37557-bcdb-4c2c-a261-4035faec847e&hdnts=st=1771242812~exp=1771242852~acl=/variant/v1blackout/vcg-01-d/*~id=a704e901-ee0e-495b-ae95-0c1abc6fe2a7~hmac=463e69903500bd3818038d2a1fddc096bc37ab37c2ac1e46c36c037f89b9f12d&hdcore=2.11.3
-#EXTINF:-1 tvg-id="match_29_eng_vs_ita" tvg-name="Match 29: ENG vs ITA" tvg-language="English" tvg-country="INT" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size50/v1771170652/prd/zbidzwyhkb5muuahjzrx" group-title="ICC TV (T20 WC26)*",Match 29: ENG vs ITA
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-02)/manifest.mpd?vcfilter=8297833e-2d8a-4bca-9233-8727bd614e56&hdnts=st=1771249040~exp=1771249080~acl=/variant/v1blackout/vcg-01-d/*~id=a704e901-ee0e-495b-ae95-0c1abc6fe2a7~hmac=a8192e2173d9d218cb316ce0e3df60c033f2882df651202967af20bd7781f441&hdcore=2.11.3
+#EXTINF:-1 tvg-id="match_30_sl_vs_aus" tvg-name="Match 30: SL vs AUS" tvg-language="English" tvg-country="INT" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size50/v1771170676/prd/nqzwucdlzqkodlhh051l" group-title="ICC TV (T20 WC26)*",Match 30: SL vs AUS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e85411a37b603294ad2f9cd79b3eb559:a1ba6a2e83e553191e0bedaec5c83773
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_headers=User-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-05)/manifest.mpd?vcfilter=afe3df75-f192-4276-aa9d-05ff6d5940bb&hdnts=st=1771242816~exp=1771242856~acl=/variant/v1blackout/vcg-01-d/*~id=a704e901-ee0e-495b-ae95-0c1abc6fe2a7~hmac=61daafbfc41ea2f0339b557f05638543c4408d351cb153407e9c7d502b9dfa16&hdcore=2.11.3
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-04)/manifest.mpd?vcfilter=d04dc68d-2da0-4fc0-a857-f44da8fc02d4&hdnts=st=1771249045~exp=1771249085~acl=/variant/v1blackout/vcg-01-d/*~id=a704e901-ee0e-495b-ae95-0c1abc6fe2a7~hmac=20ee5f7a0f36c9ec1ef5b37a7ac0974688e042275a33eb1154199cad3de2d720&hdcore=2.11.3
