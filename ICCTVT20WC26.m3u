@@ -1,15 +1,15 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="match_31_nz_vs_can" tvg-name="Match 31: NZ vs CAN" tvg-language="English" tvg-country="INT" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size50/prd/gjsxvgl52rcabgnepzh6" group-title="ICC TV (T20 WC26)*",Match 31: NZ vs CAN
+#EXTINF:-1 tvg-id="match_31_nz_vs_can" tvg-name="Match 31: NZ vs CAN" tvg-language="English" tvg-country="INT" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size50/v1771309069/prd/ehwwrsrs82c9bdqgxvx4" group-title="ICC TV (T20 WC26)*",Match 31: NZ vs CAN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e85411a37b603294ad2f9cd79b3eb559:a1ba6a2e83e553191e0bedaec5c83773
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_headers=User-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-02)/manifest.mpd?vcfilter=7523d057-cc41-4004-ad43-abd2d9606c1e&hdnts=st=1771306545~exp=1771306585~acl=/variant/v1blackout/vcg-01-d/*~id=a704e901-ee0e-495b-ae95-0c1abc6fe2a7~hmac=3aad874a868e4e0aecc33af36860c46df26988da0944d232a4b254acb8456867&hdcore=2.11.3
-#EXTINF:-1 tvg-id="match_31_nz_vs_can" tvg-name="Match 31: NZ vs CAN" tvg-language="English" tvg-country="INT" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size50/prd/bypmcnumrfeikn3iykhy" group-title="ICC TV (T20 WC26)*",Match 31: NZ vs CAN
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-02)/manifest.mpd?vcfilter=7523d057-cc41-4004-ad43-abd2d9606c1e&hdnts=st=1771312437~exp=1771312477~acl=/variant/v1blackout/vcg-01-d/*~id=a704e901-ee0e-495b-ae95-0c1abc6fe2a7~hmac=3927101b2e867e4e62f94b15aaf718b406d44f1106f71e695c9a0219c0c0aef7&hdcore=2.11.3
+#EXTINF:-1 tvg-id="match_31_nz_vs_can" tvg-name="Match 31: NZ vs CAN" tvg-language="English" tvg-country="INT" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size50/v1771309073/prd/ozgqkv3dz43avmjvc3fb" group-title="ICC TV (T20 WC26)*",Match 31: NZ vs CAN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e85411a37b603294ad2f9cd79b3eb559:a1ba6a2e83e553191e0bedaec5c83773
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_headers=User-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-04)/manifest.mpd?vcfilter=699ade02-f82d-4cce-9f75-85eb57e5a884&hdnts=st=1771306549~exp=1771306589~acl=/variant/v1blackout/vcg-01-d/*~id=a704e901-ee0e-495b-ae95-0c1abc6fe2a7~hmac=b34279108452fd4b7f681ef09caf14a9d352454924e916385c8b3619a6503deb&hdcore=2.11.3
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-04)/manifest.mpd?vcfilter=699ade02-f82d-4cce-9f75-85eb57e5a884&hdnts=st=1771312442~exp=1771312482~acl=/variant/v1blackout/vcg-01-d/*~id=a704e901-ee0e-495b-ae95-0c1abc6fe2a7~hmac=c9ff932b6b34c375b64e1f398f5ade5b1cab1ebb8b7bd23b560b3205fee3909a&hdcore=2.11.3

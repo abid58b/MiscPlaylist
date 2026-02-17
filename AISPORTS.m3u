@@ -1,7 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="AI SPORTS" tvg-logo="https://pbcdn.aoneroom.com/image/2026/02/05/a852267fb2204a62a989ed4e40e56102.webp", ICC Men's T20 World Cup: Afghanistan vs United Arab Emirates
-#EXTVLCOPT:http-referer=https://sportslivenow.top/
-https://live-pull.aisports.mobi/moviebox/device01/playlist.m3u8
 #EXTINF:-1 group-title="AI SPORTS" tvg-logo="https://pbcdn.aoneroom.com/image/2026/02/05/51ed7fd6d3b7ddad637e84336c3f5271.webp", ICC Men's T20 World Cup: England vs Italy
 #EXTVLCOPT:http-referer=https://sportslivenow.top/
 https://live-pull.aisports.mobi/moviebox/device02/playlist.m3u8
