@@ -1,15 +1,22 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="match_32_ire_vs_zim" tvg-name="Match 32: IRE vs ZIM" tvg-language="English" tvg-country="INT" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size50/v1771309225/prd/h2ftb60k0lit1yrdhsec" group-title="ICC TV (T20 WC26)*",Match 32: IRE vs ZIM
+#EXTINF:-1 tvg-id="match_33_sco_vs_nep" tvg-name="Match 33: SCO vs NEP" tvg-language="English" tvg-country="INT" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size50/v1771309239/prd/tresjxmq4agwobm1m2am" group-title="ICC TV (T20 WC26)*",Match 33: SCO vs NEP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e85411a37b603294ad2f9cd79b3eb559:a1ba6a2e83e553191e0bedaec5c83773
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_headers=User-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-03)/manifest.mpd?vcfilter=8a569f04-1a2b-4b16-9063-afe157d54e8d&hdnts=st=1771329095~exp=1771329135~acl=/variant/v1blackout/vcg-01-d/*~id=a704e901-ee0e-495b-ae95-0c1abc6fe2a7~hmac=817d8caeea3f641ff9adeaa6d274c4d8176364bab1170d8085a86dd5c47d3b01&hdcore=2.11.3
-#EXTINF:-1 tvg-id="match_32_ire_vs_zim" tvg-name="Match 32: IRE vs ZIM" tvg-language="English" tvg-country="INT" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size50/v1771309244/prd/kpud3biewea18daerez0" group-title="ICC TV (T20 WC26)*",Match 32: IRE vs ZIM
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/manifest.mpd?vcfilter=fccddfbc-bd76-443a-bcdd-973c795ce2ba&hdnts=st=1771335479~exp=1771335519~acl=/variant/v1blackout/vcg-01-d/*~id=a704e901-ee0e-495b-ae95-0c1abc6fe2a7~hmac=cc4c5899e39871fc1c2f56dc8db3c8d714d8132d279f346b21a8015369e2d0e9&hdcore=2.11.3
+#EXTINF:-1 tvg-id="match_33_sco_vs_nep" tvg-name="Match 33: SCO vs NEP" tvg-language="English" tvg-country="INT" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size50/v1771309229/prd/lqalxtynbouz7vd6f3nc" group-title="ICC TV (T20 WC26)*",Match 33: SCO vs NEP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e85411a37b603294ad2f9cd79b3eb559:a1ba6a2e83e553191e0bedaec5c83773
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_headers=User-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-05)/manifest.mpd?vcfilter=d70153f9-17f4-4773-9e8a-51761da0d56d&hdnts=st=1771329099~exp=1771329139~acl=/variant/v1blackout/vcg-01-d/*~id=a704e901-ee0e-495b-ae95-0c1abc6fe2a7~hmac=00485c1b14186be8d81f034e3e260a23d3206b25e3d646385cc52e65e5020314&hdcore=2.11.3
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-02)/manifest.mpd?vcfilter=8b024cc9-32fc-473a-b64d-07840889ab7f&hdnts=st=1771335483~exp=1771335523~acl=/variant/v1blackout/vcg-01-d/*~id=a704e901-ee0e-495b-ae95-0c1abc6fe2a7~hmac=35c45108a0ce942bd32f28bcd7002f6b7f5577851f87017abff629bfdd2c74b8&hdcore=2.11.3
+#EXTINF:-1 tvg-id="match_33_sco_vs_nep" tvg-name="Match 33: SCO vs NEP" tvg-language="English" tvg-country="INT" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size50/v1771309248/prd/mxcq1ucrmrwclq3oxn1u" group-title="ICC TV (T20 WC26)*",Match 33: SCO vs NEP
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e85411a37b603294ad2f9cd79b3eb559:a1ba6a2e83e553191e0bedaec5c83773
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_headers=User-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-04)/manifest.mpd?vcfilter=bea0d032-30dc-48ea-bb63-b432b97b7c69&hdnts=st=1771335487~exp=1771335527~acl=/variant/v1blackout/vcg-01-d/*~id=a704e901-ee0e-495b-ae95-0c1abc6fe2a7~hmac=ceb6d37c268071fba705c9cb08cad41f4b29e83be84eea17b921b69917353a9b&hdcore=2.11.3
