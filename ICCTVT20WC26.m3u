@@ -5,18 +5,11 @@
 #KODIPROP:inputstream.adaptive.license_key=e85411a37b603294ad2f9cd79b3eb559:a1ba6a2e83e553191e0bedaec5c83773
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_headers=User-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/manifest.mpd?vcfilter=fccddfbc-bd76-443a-bcdd-973c795ce2ba&hdnts=st=1771344357~exp=1771344397~acl=/variant/v1blackout/vcg-01-d/*~id=a704e901-ee0e-495b-ae95-0c1abc6fe2a7~hmac=623356559364965da672e740dc46d6a03040293b3f16e711340b068c88c28fb1&hdcore=2.11.3
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/manifest.mpd?vcfilter=fccddfbc-bd76-443a-bcdd-973c795ce2ba&hdnts=st=1771348425~exp=1771348465~acl=/variant/v1blackout/vcg-01-d/*~id=a704e901-ee0e-495b-ae95-0c1abc6fe2a7~hmac=67c49265b9b3f776d8ce47af5dbb783c14aa97ebe5eb32260f1713c0514f90e7&hdcore=2.11.3
 #EXTINF:-1 tvg-id="match_33_sco_vs_nep" tvg-name="Match 33: SCO vs NEP" tvg-language="English" tvg-country="INT" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size50/v1771309229/prd/lqalxtynbouz7vd6f3nc" group-title="ICC TV (T20 WC26)*",Match 33: SCO vs NEP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e85411a37b603294ad2f9cd79b3eb559:a1ba6a2e83e553191e0bedaec5c83773
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_headers=User-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-02)/manifest.mpd?vcfilter=8b024cc9-32fc-473a-b64d-07840889ab7f&hdnts=st=1771344362~exp=1771344402~acl=/variant/v1blackout/vcg-01-d/*~id=a704e901-ee0e-495b-ae95-0c1abc6fe2a7~hmac=509f37a1c12db7f7c6cb280e4089b61206b6a76e53e0e808ed5e09dce423c64c&hdcore=2.11.3
-#EXTINF:-1 tvg-id="match_33_sco_vs_nep" tvg-name="Match 33: SCO vs NEP" tvg-language="English" tvg-country="INT" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size50/v1771309248/prd/mxcq1ucrmrwclq3oxn1u" group-title="ICC TV (T20 WC26)*",Match 33: SCO vs NEP
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e85411a37b603294ad2f9cd79b3eb559:a1ba6a2e83e553191e0bedaec5c83773
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_headers=User-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-04)/manifest.mpd?vcfilter=bea0d032-30dc-48ea-bb63-b432b97b7c69&hdnts=st=1771344366~exp=1771344406~acl=/variant/v1blackout/vcg-01-d/*~id=a704e901-ee0e-495b-ae95-0c1abc6fe2a7~hmac=a61ef4619d08bf9028afc5937bd7cc89bc24abf767a626fe486aeda0eaa53bd7&hdcore=2.11.3
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-02)/manifest.mpd?vcfilter=8b024cc9-32fc-473a-b64d-07840889ab7f&hdnts=st=1771348430~exp=1771348470~acl=/variant/v1blackout/vcg-01-d/*~id=a704e901-ee0e-495b-ae95-0c1abc6fe2a7~hmac=e6ac272d7a954c4a392357b1c014e0475b5d867cc66117be4cb589400c454143&hdcore=2.11.3
