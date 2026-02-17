@@ -8,9 +8,15 @@ https://live-pull.aisports.mobi/moviebox/football001/playlist.m3u8
 #EXTINF:-1 group-title="AI SPORTS" tvg-logo="https://pbcdn.aoneroom.com/image/2025/04/08/191f5c2e20b5f46407422dcccb07ecb1.jpg", Champions League: Galatasaray vs Juventus
 #EXTVLCOPT:http-referer=https://sportslivenow.top/
 https://live-pull.aisports.mobi/moviebox/football001/playlist.m3u8
+#EXTINF:-1 group-title="AI SPORTS" tvg-logo="https://pbcdn.aoneroom.com/image/2025/03/13/c68269f4f3f93e024ddcc8f5d81c2b0b.jpg", Champions League: AS Monaco vs Paris Saint-Germain
+#EXTVLCOPT:http-referer=https://sportslivenow.top/
+https://live-pull.aisports.mobi/moviebox/bsy_027/playlist.m3u8
 #EXTINF:-1 group-title="AI SPORTS" tvg-logo="https://pbcdn.aoneroom.com/image/2025/03/13/8e2eeb90bc791d3d82ebb0f93a6663ee.jpg", Champions League: Benfica vs Real Madrid
 #EXTVLCOPT:http-referer=https://sportslivenow.top/
 https://live-pull.aisports.mobi/moviebox/device01/playlist.m3u8
+#EXTINF:-1 group-title="AI SPORTS" tvg-logo="https://pbcdn.aoneroom.com/image/2025/03/13/bae296c73e03725497d59d958ae94b15.jpg", Champions League: Borussia Dortmund vs Atalanta
+#EXTVLCOPT:http-referer=https://sportslivenow.top/
+https://live-pull.aisports.mobi/moviebox/bsy_014/playlist.m3u8
 #EXTINF:-1 group-title="AI SPORTS" tvg-logo="https://pbcdn.aoneroom.com/image/2026/02/05/ebcb7528c9c92d16bbb18cc71b221ee4.webp", ICC Men's T20 World Cup: South Africa vs United Arab Emirates
 #EXTVLCOPT:http-referer=https://sportslivenow.top/
 https://live-pull.aisports.mobi/moviebox/device01/playlist.m3u8
