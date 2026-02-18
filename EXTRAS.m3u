@@ -5,115 +5,83 @@ https://drive.google.com/uc?export=download&id=1CCtOaagdSgWN2KrZXP1Wll-KJHBlqqXE
 https://emaxtv.exmax.workers.dev/emax.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/7JsT97R6/a-sleek-professional-television-channel-k0s-Gqv-F4-Rfa-MPGG8x8-Ao-Bg-Nxp-WWef-BSL.jpg" group-title="EXTRAS++",HAR PAL GEO HD
 https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/chunks.m3u8
-#EXTINF:-1 tvg-id="PRIME_EMAXK_S1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fa/2026_ICC_Men%27s_T20_World_Cup_logo.svg/1280px-2026_ICC_Men%27s_T20_World_Cup_logo.svg.png" group-title="EXTRAS++",IND vs PAK S1
-#KODIPROP:inputstream=inputstream.adaptive
+#EXTINF:-1 tvg-id="SA vs UAE Prime S1" group-title="EXTRAS++",S1 SA vs UAE Prime 50fps
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=da661ad935054591590c7487368b26f3:10229bfa52d2e601b3e88b7951dc0bae
-#KODIPROP:inputstream.adaptive.common_headers=User-Agent=Mozilla/5.0
-https://a65live-pv-ta-amazon.akamaized.net/syd-nitro/live/dash/enc/gmgcjjmmtb/out/v1/b02b49b7e4244b4ebaf4f2d576a97228/cenc.mpd
-#EXTINF:-1 tvg-id="PRIME_EMAXK_S2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fa/2026_ICC_Men%27s_T20_World_Cup_logo.svg/1280px-2026_ICC_Men%27s_T20_World_Cup_logo.svg.png" group-title="EXTRAS++",IND vs PAK S2
-#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_key=700b2e693819b6193543a8ec20627383:39dbd9105095530793ea9dbfb6cc418a
+https://a65live-pv-ta-amazon.akamaized.net/syd-nitro/live/dash/enc/cj4rwabldn/out/v1/d346b8e088254045bf5ecde7cf5d335a/cenc.mpd
+#EXTINF:-1 tvg-id="SA vs UAE Prime S2" group-title="EXTRAS++",S2 SA vs UAE Prime 50fps
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=da661ad935054591590c7487368b26f3:10229bfa52d2e601b3e88b7951dc0bae
-#KODIPROP:inputstream.adaptive.common_headers=User-Agent=Mozilla/5.0
-https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/dash/enc/gmgcjjmmtb/out/v1/b02b49b7e4244b4ebaf4f2d576a97228/cenc.mpd
-#EXTINF:-1 tvg-id="PRIME_EMAXK_S3" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fa/2026_ICC_Men%27s_T20_World_Cup_logo.svg/1280px-2026_ICC_Men%27s_T20_World_Cup_logo.svg.png" group-title="EXTRAS++",IND vs PAK S3
-#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_key=700b2e693819b6193543a8ec20627383:39dbd9105095530793ea9dbfb6cc418a
+https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/dash/enc/cj4rwabldn/out/v1/d346b8e088254045bf5ecde7cf5d335a/cenc.mpd
+#EXTINF:-1 tvg-id="SA vs UAE Prime S3" group-title="EXTRAS++",S3 SA vs UAE Prime 50fps
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=da661ad935054591590c7487368b26f3:10229bfa52d2e601b3e88b7951dc0bae
-#KODIPROP:inputstream.adaptive.common_headers=User-Agent=Mozilla/5.0
-https://a140aivottepl-a.akamaihd.net/syd-nitro/live/dash/enc/gmgcjjmmtb/out/v1/b02b49b7e4244b4ebaf4f2d576a97228/cenc.mpd
-#EXTINF:-1 tvg-id="PRIME_EMAXK_S4" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fa/2026_ICC_Men%27s_T20_World_Cup_logo.svg/1280px-2026_ICC_Men%27s_T20_World_Cup_logo.svg.png" group-title="EXTRAS++",IND vs PAK S4
-#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_key=700b2e693819b6193543a8ec20627383:39dbd9105095530793ea9dbfb6cc418a
+https://a140aivottepl-a.akamaihd.net/syd-nitro/live/dash/enc/cj4rwabldn/out/v1/d346b8e088254045bf5ecde7cf5d335a/cenc.mpd
+#EXTINF:-1 tvg-id="SA vs UAE Prime S4" group-title="EXTRAS++",S4 SA vs UAE Prime 50fps
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=da661ad935054591590c7487368b26f3:10229bfa52d2e601b3e88b7951dc0bae
-#KODIPROP:inputstream.adaptive.common_headers=User-Agent=Mozilla/5.0
-https://a27aivottepl-a.akamaihd.net/syd-nitro/live/dash/enc/gmgcjjmmtb/out/v1/b02b49b7e4244b4ebaf4f2d576a97228/cenc.mpd
-#EXTINF:-1 tvg-id="PRIME_EMAXK_S5" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fa/2026_ICC_Men%27s_T20_World_Cup_logo.svg/1280px-2026_ICC_Men%27s_T20_World_Cup_logo.svg.png" group-title="EXTRAS++",IND vs PAK S5
-#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_key=700b2e693819b6193543a8ec20627383:39dbd9105095530793ea9dbfb6cc418a
+https://a27aivottepl-a.akamaihd.net/syd-nitro/live/dash/enc/cj4rwabldn/out/v1/d346b8e088254045bf5ecde7cf5d335a/cenc.mpd
+#EXTINF:-1 tvg-id="SA vs UAE Prime S5" group-title="EXTRAS++",S5 SA vs UAE Prime 50fps
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=da661ad935054591590c7487368b26f3:10229bfa52d2e601b3e88b7951dc0bae
-#KODIPROP:inputstream.adaptive.common_headers=User-Agent=Mozilla/5.0
-https://abm5x5xaaaaaaaamjgudev5k44qb3.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live/dash/enc/gmgcjjmmtb/out/v1/b02b49b7e4244b4ebaf4f2d576a97228/cenc.mpd
-#EXTINF:-1 tvg-id="PRIME_EMAXK_S6" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fa/2026_ICC_Men%27s_T20_World_Cup_logo.svg/1280px-2026_ICC_Men%27s_T20_World_Cup_logo.svg.png" group-title="EXTRAS++",IND vs PAK S6
-#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_key=700b2e693819b6193543a8ec20627383:39dbd9105095530793ea9dbfb6cc418a
+https://abm5x5xaaaaaaaamjgudev5k44qb3.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live/dash/enc/cj4rwabldn/out/v1/d346b8e088254045bf5ecde7cf5d335a/cenc.mpd
+#EXTINF:-1 tvg-id="SA vs UAE Prime S6" group-title="EXTRAS++",S6 SA vs UAE Prime 50fps
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=da661ad935054591590c7487368b26f3:10229bfa52d2e601b3e88b7951dc0bae
-#KODIPROP:inputstream.adaptive.common_headers=User-Agent=Mozilla/5.0
-https://a125aivottepl-a.akamaihd.net/syd-nitro/live/dash/enc/gmgcjjmmtb/out/v1/b02b49b7e4244b4ebaf4f2d576a97228/cenc.mpd
-#EXTINF:-1 tvg-id="PRIME_EMAXK_S8" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fa/2026_ICC_Men%27s_T20_World_Cup_logo.svg/1280px-2026_ICC_Men%27s_T20_World_Cup_logo.svg.png" group-title="EXTRAS++",IND vs PAK S8
-#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_key=700b2e693819b6193543a8ec20627383:39dbd9105095530793ea9dbfb6cc418a
+https://a125aivottepl-a.akamaihd.net/syd-nitro/live/dash/enc/cj4rwabldn/out/v1/d346b8e088254045bf5ecde7cf5d335a/cenc.mpd
+#EXTINF:-1 tvg-id="SA vs UAE Prime S8" group-title="EXTRAS++",S8 SA vs UAE Prime 50fps
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=da661ad935054591590c7487368b26f3:10229bfa52d2e601b3e88b7951dc0bae
-#KODIPROP:inputstream.adaptive.common_headers=User-Agent=Mozilla/5.0
-https://live-pv-ta.amazon.fastly-edge.com/syd-nitro/live/dash/enc/gmgcjjmmtb/out/v1/b02b49b7e4244b4ebaf4f2d576a97228/cenc.mpd
-#EXTINF:-1 tvg-id="PRIME_EMAXK_S9" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fa/2026_ICC_Men%27s_T20_World_Cup_logo.svg/1280px-2026_ICC_Men%27s_T20_World_Cup_logo.svg.png" group-title="EXTRAS++",IND vs PAK S9
-#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_key=700b2e693819b6193543a8ec20627383:39dbd9105095530793ea9dbfb6cc418a
+https://live-pv-ta.amazon.fastly-edge.com/syd-nitro/live/dash/enc/cj4rwabldn/out/v1/d346b8e088254045bf5ecde7cf5d335a/cenc.mpd
+#EXTINF:-1 tvg-id="SA vs UAE Prime S9" group-title="EXTRAS++",S9 SA vs UAE Prime 50fps
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=da661ad935054591590c7487368b26f3:10229bfa52d2e601b3e88b7951dc0bae
-#KODIPROP:inputstream.adaptive.common_headers=User-Agent=Mozilla/5.0
-https://aba3uy3aaaaaaaamfjv2jyrjdxcj4.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live/dash/enc/gmgcjjmmtb/out/v1/b02b49b7e4244b4ebaf4f2d576a97228/cenc.mpd
-#EXTINF:-1 tvg-id="PRIME_EMAXK_HINDI_S1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fa/2026_ICC_Men%27s_T20_World_Cup_logo.svg/1280px-2026_ICC_Men%27s_T20_World_Cup_logo.svg.png" group-title="EXTRAS++",IND vs PAK HINDI S1
-#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_key=700b2e693819b6193543a8ec20627383:39dbd9105095530793ea9dbfb6cc418a
+https://aba3uy3aaaaaaaamfjv2jyrjdxcj4.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live/dash/enc/cj4rwabldn/out/v1/d346b8e088254045bf5ecde7cf5d335a/cenc.mpd
+#EXTINF:-1 tvg-id="SA vs UAE Willow S1" group-title="EXTRAS++",S1 SA vs UAE Willow
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=531599a595f0a03ced73300beaec99b7:f5a77d391847790f46059cbb092d575b
-#KODIPROP:inputstream.adaptive.common_headers=User-Agent=Mozilla/5.0
-https://a65live-pv-ta-amazon.akamaized.net/syd-nitro/live/dash/enc/utvv87801b/out/v1/d9a29796c1c3468785dbee1776ffd354/cenc.mpd
-#EXTINF:-1 tvg-id="PRIME_EMAXK_HINDI_S2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fa/2026_ICC_Men%27s_T20_World_Cup_logo.svg/1280px-2026_ICC_Men%27s_T20_World_Cup_logo.svg.png" group-title="EXTRAS++",IND vs PAK HINDI S2
-#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_key=e7e086d62265b5c8d0369cc8a7dd6e9a:d6c607149566e630e4a36351763b9bde
+https://a65live-pv-ta-amazon.akamaized.net/syd-nitro/live/dash/enc/ejkop5xpjt/out/v1/46a4d70a8aa44769a15c33aa4be8e1be/cenc.mpd
+#EXTINF:-1 tvg-id="SA vs UAE Willow S2" group-title="EXTRAS++",S2 SA vs UAE Willow
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=531599a595f0a03ced73300beaec99b7:f5a77d391847790f46059cbb092d575b
-#KODIPROP:inputstream.adaptive.common_headers=User-Agent=Mozilla/5.0
-https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/dash/enc/utvv87801b/out/v1/d9a29796c1c3468785dbee1776ffd354/cenc.mpd
-#EXTINF:-1 tvg-id="PRIME_EMAXK_HINDI_S3" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fa/2026_ICC_Men%27s_T20_World_Cup_logo.svg/1280px-2026_ICC_Men%27s_T20_World_Cup_logo.svg.png" group-title="EXTRAS++",IND vs PAK HINDI S3
-#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_key=e7e086d62265b5c8d0369cc8a7dd6e9a:d6c607149566e630e4a36351763b9bde
+https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/dash/enc/ejkop5xpjt/out/v1/46a4d70a8aa44769a15c33aa4be8e1be/cenc.mpd
+#EXTINF:-1 tvg-id="SA vs UAE Willow S3" group-title="EXTRAS++",S3 SA vs UAE Willow
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=531599a595f0a03ced73300beaec99b7:f5a77d391847790f46059cbb092d575b
-#KODIPROP:inputstream.adaptive.common_headers=User-Agent=Mozilla/5.0
-https://a140aivottepl-a.akamaihd.net/syd-nitro/live/dash/enc/utvv87801b/out/v1/d9a29796c1c3468785dbee1776ffd354/cenc.mpd
-#EXTINF:-1 tvg-id="PRIME_EMAXK_HINDI_S4" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fa/2026_ICC_Men%27s_T20_World_Cup_logo.svg/1280px-2026_ICC_Men%27s_T20_World_Cup_logo.svg.png" group-title="EXTRAS++",IND vs PAK HINDI S4
-#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_key=e7e086d62265b5c8d0369cc8a7dd6e9a:d6c607149566e630e4a36351763b9bde
+https://a140aivottepl-a.akamaihd.net/syd-nitro/live/dash/enc/ejkop5xpjt/out/v1/46a4d70a8aa44769a15c33aa4be8e1be/cenc.mpd
+#EXTINF:-1 tvg-id="SA vs UAE Willow S4" group-title="EXTRAS++",S4 SA vs UAE Willow
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=531599a595f0a03ced73300beaec99b7:f5a77d391847790f46059cbb092d575b
-#KODIPROP:inputstream.adaptive.common_headers=User-Agent=Mozilla/5.0
-https://a27aivottepl-a.akamaihd.net/syd-nitro/live/dash/enc/utvv87801b/out/v1/d9a29796c1c3468785dbee1776ffd354/cenc.mpd
-#EXTINF:-1 tvg-id="PRIME_EMAXK_HINDI_S5" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fa/2026_ICC_Men%27s_T20_World_Cup_logo.svg/1280px-2026_ICC_Men%27s_T20_World_Cup_logo.svg.png" group-title="EXTRAS++",IND vs PAK HINDI S5
-#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_key=e7e086d62265b5c8d0369cc8a7dd6e9a:d6c607149566e630e4a36351763b9bde
+https://a27aivottepl-a.akamaihd.net/syd-nitro/live/dash/enc/ejkop5xpjt/out/v1/46a4d70a8aa44769a15c33aa4be8e1be/cenc.mpd
+#EXTINF:-1 tvg-id="SA vs UAE Willow S5" group-title="EXTRAS++",S5 SA vs UAE Willow
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=531599a595f0a03ced73300beaec99b7:f5a77d391847790f46059cbb092d575b
-#KODIPROP:inputstream.adaptive.common_headers=User-Agent=Mozilla/5.0
-https://abm5x5xaaaaaaaamjgudev5k44qb3.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live/dash/enc/utvv87801b/out/v1/d9a29796c1c3468785dbee1776ffd354/cenc.mpd
-#EXTINF:-1 tvg-id="PRIME_EMAXK_HINDI_S6" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fa/2026_ICC_Men%27s_T20_World_Cup_logo.svg/1280px-2026_ICC_Men%27s_T20_World_Cup_logo.svg.png" group-title="EXTRAS++",IND vs PAK HINDI S6
-#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_key=e7e086d62265b5c8d0369cc8a7dd6e9a:d6c607149566e630e4a36351763b9bde
+https://abm5x5xaaaaaaaamjgudev5k44qb3.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live/dash/enc/ejkop5xpjt/out/v1/46a4d70a8aa44769a15c33aa4be8e1be/cenc.mpd
+#EXTINF:-1 tvg-id="SA vs UAE Willow S6" group-title="EXTRAS++",S6 SA vs UAE Willow
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=531599a595f0a03ced73300beaec99b7:f5a77d391847790f46059cbb092d575b
-#KODIPROP:inputstream.adaptive.common_headers=User-Agent=Mozilla/5.0
-https://a125aivottepl-a.akamaihd.net/syd-nitro/live/dash/enc/utvv87801b/out/v1/d9a29796c1c3468785dbee1776ffd354/cenc.mpd
-#EXTINF:-1 tvg-id="PRIME_EMAXK_HINDI_S8" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fa/2026_ICC_Men%27s_T20_World_Cup_logo.svg/1280px-2026_ICC_Men%27s_T20_World_Cup_logo.svg.png" group-title="EXTRAS++",IND vs PAK HINDI S8
-#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_key=e7e086d62265b5c8d0369cc8a7dd6e9a:d6c607149566e630e4a36351763b9bde
+https://a125aivottepl-a.akamaihd.net/syd-nitro/live/dash/enc/ejkop5xpjt/out/v1/46a4d70a8aa44769a15c33aa4be8e1be/cenc.mpd
+#EXTINF:-1 tvg-id="SA vs UAE Willow S8" group-title="EXTRAS++",S8 SA vs UAE Willow
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=531599a595f0a03ced73300beaec99b7:f5a77d391847790f46059cbb092d575b
-#KODIPROP:inputstream.adaptive.common_headers=User-Agent=Mozilla/5.0
-https://live-pv-ta.amazon.fastly-edge.com/syd-nitro/live/dash/enc/utvv87801b/out/v1/d9a29796c1c3468785dbee1776ffd354/cenc.mpd
-#EXTINF:-1 tvg-id="PRIME_EMAXK_HINDI_S9" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fa/2026_ICC_Men%27s_T20_World_Cup_logo.svg/1280px-2026_ICC_Men%27s_T20_World_Cup_logo.svg.png" group-title="EXTRAS++",IND vs PAK HINDI S9
-#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_key=e7e086d62265b5c8d0369cc8a7dd6e9a:d6c607149566e630e4a36351763b9bde
+https://live-pv-ta.amazon.fastly-edge.com/syd-nitro/live/dash/enc/ejkop5xpjt/out/v1/46a4d70a8aa44769a15c33aa4be8e1be/cenc.mpd
+#EXTINF:-1 tvg-id="SA vs UAE Willow S9" group-title="EXTRAS++",S9 SA vs UAE Willow
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=531599a595f0a03ced73300beaec99b7:f5a77d391847790f46059cbb092d575b
-#KODIPROP:inputstream.adaptive.common_headers=User-Agent=Mozilla/5.0
-https://aba3uy3aaaaaaaamfjv2jyrjdxcj4.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live/dash/enc/utvv87801b/out/v1/d9a29796c1c3468785dbee1776ffd354/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=e7e086d62265b5c8d0369cc8a7dd6e9a:d6c607149566e630e4a36351763b9bde
+https://aba3uy3aaaaaaaamfjv2jyrjdxcj4.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live/dash/enc/ejkop5xpjt/out/v1/46a4d70a8aa44769a15c33aa4be8e1be/cenc.mpd
