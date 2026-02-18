@@ -1,7 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="AI SPORTS" tvg-logo="https://pbcdn.aoneroom.com/image/2025/04/08/191f5c2e20b5f46407422dcccb07ecb1.jpg", Champions League: Galatasaray vs Juventus
-#EXTVLCOPT:http-referer=https://sportslivenow.top/
-https://live-pull.aisports.mobi/moviebox/football001/playlist.m3u8
 #EXTINF:-1 group-title="AI SPORTS" tvg-logo="https://pbcdn.aoneroom.com/image/2025/03/13/c68269f4f3f93e024ddcc8f5d81c2b0b.jpg", Champions League: AS Monaco vs Paris Saint-Germain
 #EXTVLCOPT:http-referer=https://sportslivenow.top/
 https://live-pull.aisports.mobi/moviebox/bsy_027/playlist.m3u8
@@ -29,3 +26,6 @@ https://live-pull.aisports.mobi/moviebox/device01/playlist.m3u8
 #EXTINF:-1 group-title="AI SPORTS" tvg-logo="https://pbcdn.aoneroom.com/image/2026/02/05/044e1e6cba88ff21210d159bb6f45bdb.webp", ICC Men's T20 World Cup: Sri Lanka vs Zimbabwe
 #EXTVLCOPT:http-referer=https://sportslivenow.top/
 https://live-pull.aisports.mobi/moviebox/device02/playlist.m3u8
+#EXTINF:-1 group-title="AI SPORTS" tvg-logo="https://pbcdn.aoneroom.com/image/2026/02/05/a852267fb2204a62a989ed4e40e56102.webp", ICC Men's T20 World Cup: Afghanistan vs Canada
+#EXTVLCOPT:http-referer=https://sportslivenow.top/
+https://live-pull.aisports.mobi/moviebox/football001/playlist.m3u8
