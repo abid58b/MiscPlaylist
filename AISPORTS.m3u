@@ -1,7 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="AI SPORTS" tvg-logo="https://pbcdn.aoneroom.com/image/2026/02/05/9a4b2b44837e789011738bf408ea1177.webp", ICC Men's T20 World Cup: Scotland vs Nepal
-#EXTVLCOPT:http-referer=https://sportslivenow.top/
-https://live-pull.aisports.mobi/moviebox/football001/playlist.m3u8
 #EXTINF:-1 group-title="AI SPORTS" tvg-logo="https://pbcdn.aoneroom.com/image/2025/04/08/191f5c2e20b5f46407422dcccb07ecb1.jpg", Champions League: Galatasaray vs Juventus
 #EXTVLCOPT:http-referer=https://sportslivenow.top/
 https://live-pull.aisports.mobi/moviebox/football001/playlist.m3u8
@@ -29,3 +26,6 @@ https://live-pull.aisports.mobi/moviebox/device02/playlist.m3u8
 #EXTINF:-1 group-title="AI SPORTS" tvg-logo="https://pbcdn.aoneroom.com/image/2026/02/05/5b509adb827961859dd5d8c3dc28261e.webp", ICC Men's T20 World Cup: West Indies vs Italy
 #EXTVLCOPT:http-referer=https://sportslivenow.top/
 https://live-pull.aisports.mobi/moviebox/device01/playlist.m3u8
+#EXTINF:-1 group-title="AI SPORTS" tvg-logo="https://pbcdn.aoneroom.com/image/2026/02/05/044e1e6cba88ff21210d159bb6f45bdb.webp", ICC Men's T20 World Cup: Sri Lanka vs Zimbabwe
+#EXTVLCOPT:http-referer=https://sportslivenow.top/
+https://live-pull.aisports.mobi/moviebox/device02/playlist.m3u8
