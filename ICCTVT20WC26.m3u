@@ -1,15 +1,15 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="match_33_sco_vs_nep" tvg-name="Match 33: SCO vs NEP" tvg-language="English" tvg-country="INT" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size50/v1771309239/prd/tresjxmq4agwobm1m2am" group-title="ICC TV (T20 WC26)*",Match 33: SCO vs NEP
+#EXTINF:-1 tvg-id="match_34_sa_vs_uae" tvg-name="Match 34: SA vs UAE" tvg-language="English" tvg-country="INT" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size50/v1771346167/prd/g5ddk4zwa87ev5xq5rac" group-title="ICC TV (T20 WC26)*",Match 34: SA vs UAE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e85411a37b603294ad2f9cd79b3eb559:a1ba6a2e83e553191e0bedaec5c83773
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_headers=User-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/manifest.mpd?vcfilter=fccddfbc-bd76-443a-bcdd-973c795ce2ba&hdnts=st=1771348425~exp=1771348465~acl=/variant/v1blackout/vcg-01-d/*~id=a704e901-ee0e-495b-ae95-0c1abc6fe2a7~hmac=67c49265b9b3f776d8ce47af5dbb783c14aa97ebe5eb32260f1713c0514f90e7&hdcore=2.11.3
-#EXTINF:-1 tvg-id="match_33_sco_vs_nep" tvg-name="Match 33: SCO vs NEP" tvg-language="English" tvg-country="INT" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size50/v1771309229/prd/lqalxtynbouz7vd6f3nc" group-title="ICC TV (T20 WC26)*",Match 33: SCO vs NEP
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-02)/manifest.mpd?vcfilter=b29aa4d4-feab-4602-9dec-5ff228438347&hdnts=st=1771393053~exp=1771393093~acl=/variant/v1blackout/vcg-01-d/*~id=a704e901-ee0e-495b-ae95-0c1abc6fe2a7~hmac=c9e0ee4b930b10b86f9097a08419ce49de772636c10626a176ae8cd1ad3be58f&hdcore=2.11.3
+#EXTINF:-1 tvg-id="match_34_sa_vs_uae" tvg-name="Match 34: SA vs UAE" tvg-language="English" tvg-country="INT" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size50/v1771346132/prd/ppkpgwgodz8ins3vy1ea" group-title="ICC TV (T20 WC26)*",Match 34: SA vs UAE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e85411a37b603294ad2f9cd79b3eb559:a1ba6a2e83e553191e0bedaec5c83773
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_headers=User-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-02)/manifest.mpd?vcfilter=8b024cc9-32fc-473a-b64d-07840889ab7f&hdnts=st=1771348430~exp=1771348470~acl=/variant/v1blackout/vcg-01-d/*~id=a704e901-ee0e-495b-ae95-0c1abc6fe2a7~hmac=e6ac272d7a954c4a392357b1c014e0475b5d867cc66117be4cb589400c454143&hdcore=2.11.3
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-04)/manifest.mpd?vcfilter=8cbfbbe2-af70-42f3-9c43-34462bab9a20&hdnts=st=1771393058~exp=1771393098~acl=/variant/v1blackout/vcg-01-d/*~id=a704e901-ee0e-495b-ae95-0c1abc6fe2a7~hmac=664a69456ce29e05ca78600cc554588bf6708a1cb59d4572fd62a356d93dc62d&hdcore=2.11.3
