@@ -1,22 +1,15 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="match_35_pak_vs_nam" tvg-name="Match 35: PAK vs NAM" tvg-language="English" tvg-country="INT" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size50/v1771346165/prd/mateyaxsty9m97eygkrq" group-title="ICC TV (T20 WC26)*",Match 35: PAK vs NAM
+#EXTINF:-1 tvg-id="match_36_ind_vs_ned" tvg-name="Match 36: IND vs NED" tvg-language="English" tvg-country="INT" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size50/v1771346118/prd/i8nu4jjk4he3wuycb93u" group-title="ICC TV (T20 WC26)*",Match 36: IND vs NED
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e85411a37b603294ad2f9cd79b3eb559:a1ba6a2e83e553191e0bedaec5c83773
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_headers=User-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-03)/manifest.mpd?vcfilter=ef0da75e-1994-46d1-8b36-57e6d21913f1&hdnts=st=1771415548~exp=1771415588~acl=/variant/v1blackout/vcg-01-d/*~id=a704e901-ee0e-495b-ae95-0c1abc6fe2a7~hmac=a2826739536f877071785f85eb9880653ed5abaa40935a1cebfdac532d1e414c&hdcore=2.11.3
-#EXTINF:-1 tvg-id="match_35_pak_vs_nam" tvg-name="Match 35: PAK vs NAM" tvg-language="English" tvg-country="INT" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size50/v1771346145/prd/akdokwjnnvwy98ehyj5x" group-title="ICC TV (T20 WC26)*",Match 35: PAK vs NAM
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-02)/manifest.mpd?vcfilter=899f7d05-26cd-4dfb-af9c-607520d8ebcf&hdnts=st=1771421971~exp=1771422011~acl=/variant/v1blackout/vcg-01-d/*~id=a704e901-ee0e-495b-ae95-0c1abc6fe2a7~hmac=da65159a69c9df92f21e3af883a613b452ae8378cd66b602b3ad3c7f47cfedcc&hdcore=2.11.3
+#EXTINF:-1 tvg-id="match_36_ind_vs_ned" tvg-name="Match 36: IND vs NED" tvg-language="English" tvg-country="INT" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size50/v1771346142/prd/lvxqtrmeydales13mrne" group-title="ICC TV (T20 WC26)*",Match 36: IND vs NED
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e85411a37b603294ad2f9cd79b3eb559:a1ba6a2e83e553191e0bedaec5c83773
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_headers=User-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-05)/manifest.mpd?vcfilter=9f62492d-f79d-4703-9c16-0a62b35b34ab&hdnts=st=1771415552~exp=1771415592~acl=/variant/v1blackout/vcg-01-d/*~id=a704e901-ee0e-495b-ae95-0c1abc6fe2a7~hmac=e80280d081b1b79b3e99ed38e5a7e466a11a1359f669acb8f7ab22795d560deb&hdcore=2.11.3
-#EXTINF:-1 tvg-id="match_35_pak_vs_nam" tvg-name="Match 35: PAK vs NAM" tvg-language="English" tvg-country="INT" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size50/v1771346127/prd/tb40cecu1j0uljjujvwv" group-title="ICC TV (T20 WC26)*",Match 35: PAK vs NAM
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e85411a37b603294ad2f9cd79b3eb559:a1ba6a2e83e553191e0bedaec5c83773
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_headers=User-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-01)/manifest.mpd?vcfilter=ec6ac439-851b-4ee8-8094-a9c856d15043&hdnts=st=1771415556~exp=1771415596~acl=/variant/v1blackout/vcg-01-d/*~id=a704e901-ee0e-495b-ae95-0c1abc6fe2a7~hmac=f02c6361824aa84f69eea79394d0c3d2cfac723b4ed392bbe25b57d52e50caa8&hdcore=2.11.3
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-04)/manifest.mpd?vcfilter=0144e653-1dd0-41d4-8af8-b32b2db0ea09&hdnts=st=1771421976~exp=1771422016~acl=/variant/v1blackout/vcg-01-d/*~id=a704e901-ee0e-495b-ae95-0c1abc6fe2a7~hmac=9a58cb4b5fa1c06e91153e5967e0504d87d11de6fd9a4e6247f4cfcc4d3eda8b&hdcore=2.11.3
