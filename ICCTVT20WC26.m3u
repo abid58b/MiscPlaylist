@@ -1,8 +1,15 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="match_36_ind_vs_ned" tvg-name="Match 36: IND vs NED" tvg-language="English" tvg-country="INT" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size50/v1771346118/prd/i8nu4jjk4he3wuycb93u" group-title="ICC TV (T20 WC26)*",Match 36: IND vs NED
+#EXTINF:-1 tvg-id="match_37_wi_vs_ita" tvg-name="Match 37: WI vs ITA" tvg-language="English" tvg-country="INT" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size50/v1771434753/prd/mhiixlurmhrwagvblq9g" group-title="ICC TV (T20 WC26)*",Match 37: WI vs ITA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e85411a37b603294ad2f9cd79b3eb559:a1ba6a2e83e553191e0bedaec5c83773
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_headers=User-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-02)/manifest.mpd?vcfilter=899f7d05-26cd-4dfb-af9c-607520d8ebcf&hdnts=st=1771435091~exp=1771435131~acl=/variant/v1blackout/vcg-01-d/*~id=a704e901-ee0e-495b-ae95-0c1abc6fe2a7~hmac=a119bdf5948d5edeb2bd6f3da90082d18e4cfc10cf4ab7598d1777fdb9a590fd&hdcore=2.11.3
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-02)/manifest.mpd?vcfilter=76806abb-541a-436c-ae25-958843c91d8e&hdnts=st=1771479393~exp=1771479433~acl=/variant/v1blackout/vcg-01-d/*~id=a704e901-ee0e-495b-ae95-0c1abc6fe2a7~hmac=e9674070378eb63bd591353499d5a8179744587270c26847b073220b9ed26746&hdcore=2.11.3
+#EXTINF:-1 tvg-id="match_37_wi_vs_ita" tvg-name="Match 37: WI vs ITA" tvg-language="English" tvg-country="INT" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size50/v1771434772/prd/irvadbcjvoukcqbv69kr" group-title="ICC TV (T20 WC26)*",Match 37: WI vs ITA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e85411a37b603294ad2f9cd79b3eb559:a1ba6a2e83e553191e0bedaec5c83773
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_headers=User-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-04)/manifest.mpd?vcfilter=e69fe406-281c-4abb-ae64-8e1c0a34675a&hdnts=st=1771479399~exp=1771479439~acl=/variant/v1blackout/vcg-01-d/*~id=a704e901-ee0e-495b-ae95-0c1abc6fe2a7~hmac=e0d6aa8e663228def625e389013214895588fe167b95431aa5c6e542f81ff850&hdcore=2.11.3
