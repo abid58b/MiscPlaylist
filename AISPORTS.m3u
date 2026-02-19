@@ -1,22 +1,10 @@
 #EXTM3U
-#EXTINF:-1 group-title="AI SPORTS" tvg-logo="https://pbcdn.aoneroom.com/image/2025/04/08/aed50edc7820a442781c71409cd60e28.jpg", Champions League: Bodoe/Glimt vs Inter
+#EXTINF:-1 group-title="AI SPORTS" tvg-logo="https://pbcdn.aoneroom.com/image/2025/04/08/b9f09cf48dd03df1fded0ec8da540c88.jpg", Europa League: PAOK FC vs Celta Vigo
+#EXTVLCOPT:http-referer=https://sportslivenow.top/
+https://live-pull.aisports.mobi/moviebox/bsy_011/playlist.m3u8
+#EXTINF:-1 group-title="AI SPORTS" tvg-logo="https://pbcdn.aoneroom.com/image/2025/03/13/bf1e7b1b81f5f7a0e252462bf4220e13.jpg", Europa League: Dinamo Zagreb vs Genk
+#EXTVLCOPT:http-referer=https://sportslivenow.top/
+https://live-pull.aisports.mobi/moviebox/bsy_016/playlist.m3u8
+#EXTINF:-1 group-title="AI SPORTS" tvg-logo="https://pbcdn.aoneroom.com/image/2025/07/09/a71aae712880b6a0fbf09c5f60674cd9.jpg", Europa League: Brann vs Bologna
 #EXTVLCOPT:http-referer=https://sportslivenow.top/
 https://live-pull.aisports.mobi/moviebox/bsy_019/playlist.m3u8
-#EXTINF:-1 group-title="AI SPORTS" tvg-logo="https://pbcdn.aoneroom.com/image/2025/03/13/9662b74e604fb53fb1fc0f3462275a2c.jpg", Champions League: Club Brugge vs Atletico Madrid
-#EXTVLCOPT:http-referer=https://sportslivenow.top/
-https://live-pull.aisports.mobi/moviebox/device02/playlist.m3u8
-#EXTINF:-1 group-title="AI SPORTS" tvg-logo="https://pbcdn.aoneroom.com/image/2025/04/08/0c1037448a991e5b2ba86bc34d990ff0.jpg", Champions League: Olympiacos vs Bayer Leverkusen
-#EXTVLCOPT:http-referer=https://sportslivenow.top/
-https://live-pull.aisports.mobi/moviebox/bsy_022/playlist.m3u8
-#EXTINF:-1 group-title="AI SPORTS" tvg-logo="https://pbcdn.aoneroom.com/image/2025/03/13/6571f6b8e9ca45a235f1fec683a2fce4.jpg", Premier League: Wolves vs Arsenal
-#EXTVLCOPT:http-referer=https://sportslivenow.top/
-https://live-pull.aisports.mobi/moviebox/bsy_023/playlist.m3u8
-#EXTINF:-1 group-title="AI SPORTS" tvg-logo="https://pbcdn.aoneroom.com/image/2026/02/05/5b509adb827961859dd5d8c3dc28261e.webp", ICC Men's T20 World Cup: West Indies vs Italy
-#EXTVLCOPT:http-referer=https://sportslivenow.top/
-https://live-pull.aisports.mobi/moviebox/device01/playlist.m3u8
-#EXTINF:-1 group-title="AI SPORTS" tvg-logo="https://pbcdn.aoneroom.com/image/2026/02/05/044e1e6cba88ff21210d159bb6f45bdb.webp", ICC Men's T20 World Cup: Sri Lanka vs Zimbabwe
-#EXTVLCOPT:http-referer=https://sportslivenow.top/
-https://live-pull.aisports.mobi/moviebox/device02/playlist.m3u8
-#EXTINF:-1 group-title="AI SPORTS" tvg-logo="https://pbcdn.aoneroom.com/image/2026/02/05/a852267fb2204a62a989ed4e40e56102.webp", ICC Men's T20 World Cup: Afghanistan vs Canada
-#EXTVLCOPT:http-referer=https://sportslivenow.top/
-https://live-pull.aisports.mobi/moviebox/football001/playlist.m3u8
