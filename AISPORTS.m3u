@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="AI SPORTS" tvg-logo="https://pbcdn.aoneroom.com/image/2025/04/08/b9f09cf48dd03df1fded0ec8da540c88.jpg", Europa League: PAOK FC vs Celta Vigo
+#EXTINF:-1 group-title="AI SPORTS" tvg-logo="https://pbcdn.aoneroom.com/image/2026/02/05/077c3d548bf29a16030f68e1b5acc0e1.webp", ICC Men's T20 World Cup: Australia vs Oman
 #EXTVLCOPT:http-referer=https://sportslivenow.top/
-https://live-pull.aisports.mobi/moviebox/bsy_011/playlist.m3u8
-#EXTINF:-1 group-title="AI SPORTS" tvg-logo="https://pbcdn.aoneroom.com/image/2025/03/13/bf1e7b1b81f5f7a0e252462bf4220e13.jpg", Europa League: Dinamo Zagreb vs Genk
-#EXTVLCOPT:http-referer=https://sportslivenow.top/
-https://live-pull.aisports.mobi/moviebox/bsy_016/playlist.m3u8
-#EXTINF:-1 group-title="AI SPORTS" tvg-logo="https://pbcdn.aoneroom.com/image/2025/07/09/a71aae712880b6a0fbf09c5f60674cd9.jpg", Europa League: Brann vs Bologna
-#EXTVLCOPT:http-referer=https://sportslivenow.top/
-https://live-pull.aisports.mobi/moviebox/bsy_019/playlist.m3u8
+https://live-pull.aisports.mobi/moviebox/device01/playlist.m3u8
