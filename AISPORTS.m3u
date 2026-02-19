@@ -1,7 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="AI SPORTS" tvg-logo="https://pbcdn.aoneroom.com/image/2025/03/13/db85d98653a5a8ea1c5393a075af07e0.jpg", Serie A: AC Milan vs Como 1907
-#EXTVLCOPT:http-referer=https://sportslivenow.top/
-https://live-pull.aisports.mobi/moviebox/bsy_016/playlist.m3u8
 #EXTINF:-1 group-title="AI SPORTS" tvg-logo="https://pbcdn.aoneroom.com/image/2025/04/08/aed50edc7820a442781c71409cd60e28.jpg", Champions League: Bodoe/Glimt vs Inter
 #EXTVLCOPT:http-referer=https://sportslivenow.top/
 https://live-pull.aisports.mobi/moviebox/bsy_019/playlist.m3u8
