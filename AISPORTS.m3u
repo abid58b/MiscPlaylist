@@ -1,19 +1,19 @@
 #EXTM3U
-#EXTINF:-1 group-title="AI SPORTS" tvg-logo="https://pbcdn.aoneroom.com/image/2025/05/21/ad072ba484d02766b45fee8456c24a4d.jpg", NBA: New York Knicks vs Detroit Pistons
-#EXTVLCOPT:http-referer=https://sportslivenow.top/
-https://live-pull.aisports.mobi/moviebox/bsy_019/playlist.m3u8
-#EXTINF:-1 group-title="AI SPORTS" tvg-logo="https://pbcdn.aoneroom.com/image/2025/05/21/59a17e8c9b3fba8828afac280548d09a.jpg", NBA: Chicago Bulls vs Toronto Raptors
-#EXTVLCOPT:http-referer=https://sportslivenow.top/
-https://live-pull.aisports.mobi/moviebox/bsy_023/playlist.m3u8
-#EXTINF:-1 group-title="AI SPORTS" tvg-logo="https://pbcdn.aoneroom.com/image/2025/07/05/5b18ba26ae25e1dccb7ed5774e5d80a0.jpg", NBA: San Antonio Spurs vs Phoenix Suns
-#EXTVLCOPT:http-referer=https://sportslivenow.top/
-https://live-pull.aisports.mobi/moviebox/bsy_022/playlist.m3u8
-#EXTINF:-1 group-title="AI SPORTS" tvg-logo="https://pbcdn.aoneroom.com/image/2025/05/21/6af8b55866d8d519e8ca4f8c53351018.jpg", NBA: Golden State Warriors vs Boston Celtics
-#EXTVLCOPT:http-referer=https://sportslivenow.top/
-https://live-pull.aisports.mobi/moviebox/bsy_020/playlist.m3u8
 #EXTINF:-1 group-title="AI SPORTS" tvg-logo="https://pbcdn.aoneroom.com/image/2025/05/21/9137a4010c1778aa15dd16af2754fee4.jpg", NBA: LA Clippers vs Denver Nuggets
 #EXTVLCOPT:http-referer=https://sportslivenow.top/
 https://live-pull.aisports.mobi/moviebox/bsy_014/playlist.m3u8
 #EXTINF:-1 group-title="AI SPORTS" tvg-logo="https://pbcdn.aoneroom.com/image/2026/02/05/077c3d548bf29a16030f68e1b5acc0e1.webp", ICC Men's T20 World Cup: Australia vs Oman
 #EXTVLCOPT:http-referer=https://sportslivenow.top/
 https://live-pull.aisports.mobi/moviebox/device01/playlist.m3u8
+#EXTINF:-1 group-title="AI SPORTS" tvg-logo="https://pbcdn.aoneroom.com/image/2025/04/08/8711dc5b26c6366ed7d7c06fd814ed20.jpg", Bundesliga: Mainz 05 vs Hamburger SV
+#EXTVLCOPT:http-referer=https://sportslivenow.top/
+https://live-pull.aisports.mobi/moviebox/bsy_016/playlist.m3u8
+#EXTINF:-1 group-title="AI SPORTS" tvg-logo="https://pbcdn.aoneroom.com/image/2025/06/07/a6e618a38b1503a3c249dae163516af8.jpg", Serie A: Sassuolo vs Hellas Verona
+#EXTVLCOPT:http-referer=https://sportslivenow.top/
+https://live-pull.aisports.mobi/moviebox/bsy_019/playlist.m3u8
+#EXTINF:-1 group-title="AI SPORTS" tvg-logo="https://pbcdn.aoneroom.com/image/2025/03/13/b1d7b22ec707d46123f38a24b2c9de83.jpg", Ligue 1: Brest vs Marseille
+#EXTVLCOPT:http-referer=https://sportslivenow.top/
+https://live-pull.aisports.mobi/moviebox/bsy_011/playlist.m3u8
+#EXTINF:-1 group-title="AI SPORTS" tvg-logo="https://pbcdn.aoneroom.com/image/2025/04/08/6529247040a081ff16a32fb2ddb80e52.jpg", LaLiga: Athletic Club vs Elche
+#EXTVLCOPT:http-referer=https://sportslivenow.top/
+https://live-pull.aisports.mobi/moviebox/bsy_023/playlist.m3u8
